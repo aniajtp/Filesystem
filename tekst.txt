@@ -1,0 +1,2 @@
+Tak wyglądały dane przed zapisem!
+At tak wyglądają dane po zapisie!
